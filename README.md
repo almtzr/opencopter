@@ -1,1 +1,3 @@
-# Modular-Open-Copter
+# Modular Open Copter
+
+![Modular Copter](modularcopter.gif)
