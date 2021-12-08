@@ -1,3 +1,6 @@
 # Modular Open Copter
 
-![Modular Copter](modularcopter.gif)
+
+<div align="center">
+    <img src="modularcopter.gif" alt="Logo" width="70%">
+</div>
