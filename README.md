@@ -10,7 +10,7 @@
 
 <br>
 
-### The project source files ###
+### The project ###
 - [opencopter-electronics](https://github.com/saandial/Open-Copter/tree/main/electronics) : Electronics for Open Cotper. Include schematics and other diagrams.
 - [opencopter-software](https://github.com/saandial/Open-Copter/tree/main/software) : Source code files for transmitter and receiver.
 - [opencopter-hardware](https://github.com/saandial/Open-Copter/tree/main/hardware) : Hardware for Open Copter. Include STL file parts and other diagrams.
