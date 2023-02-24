@@ -4,7 +4,7 @@
 <br>
 
 
-<div>
+<div align="center">
     <img align="left" src="src/images/opencopter.png" alt="Logo" width="30%">
     <img align="right" src="src/images/remote.png" alt="Logo" width="30%">
 </div>
