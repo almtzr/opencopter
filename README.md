@@ -1,8 +1,13 @@
 # Open Copter
 
-Open Copter is a modular and scalable drone prototype. Quick and easy to assembly without no tools. Each of its modules can be designed for being compatible with multiple brushless motors, electronic speed controllers (ESC) or some flight controller boards. <br>
-Check out the project web page for more details: <a href="https://saandial.github.io/opencopter" target="_blank">Open Copter</a><br>
+"<a href="https://saandial.github.io/opencopter" target="_blank">Open Copter</a> is a scalable modular drone prototype. Without any tools, it can be quickly and easily assembled."<br>
+<br>
 
 <div align="left">
     <img src="opencopter.gif" alt="Logo" width="50%">
 </div>
+
+### The project source files ###
+- [opencopter-electronics](https://github.com/saandial/Open-Copter/tree/main/electronics) : Electronics for Open Cotper. Include schematics and other diagrams.
+- [opencopter-software](https://github.com/saandial/Open-Copter/tree/main/software) : Source code files for transmitter and receiver.
+- [opencopter-hardware](https://github.com/saandial/Open-Copter/tree/main/hardware) : Hardware for Open Copter. Include STL file parts and other diagrams.
