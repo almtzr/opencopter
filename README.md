@@ -4,8 +4,8 @@
 <br>
 
 <div align="center">
-    <img src="src/images/opencopter.png" alt="Logo" width="30%">
-    <img src="src/images/remote.png" alt="Logo" width="30%">
+    <img src="src/images/opencopter.png" alt="Logo" width="40%">
+    <img src="src/images/remote.png" alt="Logo" width="40%">
 </div>
 
 <br>
