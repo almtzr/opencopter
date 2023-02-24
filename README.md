@@ -5,8 +5,8 @@
 
 
 <div>
-    <img align="left" src="src/images/opencopter.png" alt="Logo" width="50%">
-    <img align="right" src="src/images/remote.png" alt="Logo" width="50%">
+    <img align="left" src="src/images/opencopter.png" alt="Logo" width="30%">
+    <img align="right" src="src/images/remote.png" alt="Logo" width="30%">
 </div>
 
 
