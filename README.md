@@ -23,6 +23,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-For any feedback please contact me: 
+For any feedback please contact me: <br>
 Almoutazar SAANDI - almoutazar.saandi@gmail.com
 
