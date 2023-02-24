@@ -3,9 +3,13 @@
 "<a href="https://saandial.github.io/opencopter" target="_blank">Open Copter</a> is a scalable modular drone prototype. Without any tools, it can be quickly and easily assembled."<br>
 <br>
 
-<div align="left">
-    <img src="opencopter.gif" alt="Logo" width="50%">
+
+<div>
+    <img align="left" src="src/images/opencopter.png" alt="Logo" width="50%">
+    <img align="right" src="src/images/remote.png" alt="Logo" width="50%">
 </div>
+
+
 
 ### The project source files ###
 - [opencopter-electronics](https://github.com/saandial/Open-Copter/tree/main/electronics) : Electronics for Open Cotper. Include schematics and other diagrams.
