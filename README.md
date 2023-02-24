@@ -74,5 +74,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 For any feedback please contact me: <br>
-Almoutazar SAANDI - almoutazar.saandi@gmail.com
+Almoutazar SAANDI - almoutazar(dot)saandi(at)gmail(dot)com
 
