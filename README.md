@@ -35,7 +35,7 @@ Don't forget to give the project a star! Thanks again!
 ## How to build
 
 If you want to know more about how to assembly the Open Copter, please checkout this page: <br>
-https://saandial.github.io/opencopter/index.html
+<a href="https://saandial.github.io/opencopter/index.html" target="_blank">https://saandial.github.io/opencopter/index.html</a>
 
 You could also find out some flight test videos including crashes for the first one flights.
 
