@@ -1,7 +1,7 @@
 
 # Hi, Welcome to the Open Copter github page.<br>
 
-Open Copter is a scalable modular drone prototype. It designed for building quickly and easily, no tools are needed to assembly.
+Open Copter is a scalable modular drone prototype. It designed for building quickly and easily, no tools are needed.
 <br>
 
 <div align="center">
