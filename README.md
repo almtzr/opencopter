@@ -4,7 +4,7 @@
 Open Copter is a modular and scalable drone. It's designed for building quickly and easily, no tools are needed.
 <br>
 
-<div align="center">
+<div align="left">
     <img src="src/images/opencopter.png" alt="Logo" width="30%">
     <img src="src/images/remote.png" alt="Logo" width="30%">
 </div>
