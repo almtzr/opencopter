@@ -1,5 +1,5 @@
 
-# Hi, Welcome to the Open Copter project page.<br>
+# Hi, Welcome to the Open Copter project page (Work in Progress...)<br>
 
 Open Copter is a modular and scalable drone. It's designed for building quickly and easily, no tools are needed.
 <br>
@@ -34,10 +34,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## How to build
 
-If you want to know more about how to assembly the Open Copter, please checkout this page: <br>
+If you want to know more about how to assembly the Open Copter, please checkout the github page: <br>
 <a href="https://saandial.github.io/opencopter/index.html" target="_blank">https://saandial.github.io/opencopter/index.html</a>
-
-You could also find out some flight test videos including crashes for the first one flights.
 
 ## License
 
