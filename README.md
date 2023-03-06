@@ -1,5 +1,5 @@
 
-# Hi, Welcome to the Open Copter project page (Work in Progress...)<br>
+# Open Copter: modular and scalable drone (Work in Progress...)<br>
 
 Open Copter is a modular and scalable drone. It's designed for building quickly and easily, no tools are needed.
 <br>
