@@ -27,19 +27,21 @@ My next prototype was better designed (good size of wires), no smoke came out of
     <img src="src/images/crash.gif">
 </div>
 <br>
-After several failed tests by improving the frame design, checking some parameters and motors stabilisation, I had enough experience to build one better. 
+After several failed tests by improving the frame design, updating some parameters and working on motors stabilisation, I did enough of mistakes to hope building a better one. 
 <br>
 
 ## Frame assembling (working progress)
-
+<div align="center">
+    <img src="src/images/frameshape.jpg" width="30%">
+</div>
 <div align="center">
     <p>Very simple no tools are needed</p>
-    <img src="src/images/frameassembly-1.jpg" alt="Logo" width="30%">
-    <img src="src/images/frameassembly-2.jpg" alt="Logo" width="30%">
-    <img src="src/images/frameassembly-3.jpg" alt="Logo" width="30%">
-    <img src="src/images/frameassembly-4.jpg" alt="Logo" width="30%">
-    <img src="src/images/frameassembly-5.jpg" alt="Logo" width="30%">
-    <img src="src/images/frameassembly-6.jpg" alt="Logo" width="30%">
+    <img src="src/images/frameassembly-1.jpg" width="30%">
+    <img src="src/images/frameassembly-2.jpg" width="30%">
+    <img src="src/images/frameassembly-3.jpg" width="30%">
+    <img src="src/images/frameassembly-4.jpg" width="30%">
+    <img src="src/images/frameassembly-5.jpg" width="30%">
+    <img src="src/images/frameassembly-6.jpg" width="30%">
 </div>
 <br>
 
