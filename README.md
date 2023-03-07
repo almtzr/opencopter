@@ -32,7 +32,6 @@ After several failed tests by improving the frame design, checking some paramete
 
 ## Frame assembling (working progress)
 
-
 <div align="center">
     <p>Very simple no tools are needed</p>
     <img src="src/images/frameassembly-1.jpg" alt="Logo" width="30%">
@@ -44,9 +43,13 @@ After several failed tests by improving the frame design, checking some paramete
 </div>
 <br>
 
+* **Weight (empty)**: 300g
+* **Diagonal (motor-to-motor)**: 460mm
+* **Number of parts**: 47
+* **Material**: PLA flexible 
+
 <p>STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a>
 
-- [opencopter-software](https://github.com/saandial/Open-Copter/tree/main/software): Source code files for transmitter and receiver.
 
 ## Contributing
 
