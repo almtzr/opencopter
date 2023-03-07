@@ -11,7 +11,7 @@ Open Copter is a modular and scalable drone. It's designed for building quickly 
 </div>
 
 ## How it started?
-### (By fires)
+### (By struggling with fires)
 
 <div align="left">
     <img src="src/images/stop_fire.gif" class="leftAlign">
@@ -36,6 +36,10 @@ After several failed tests by improving the frame design, updating some paramete
 </div>
 <div align="center">
     <p>Very easy assembling no tools are needed</p>
+    <img src="src/images/iconnotools.jpg" width="8%">
+</div>
+<br>
+<div align="center">
     <img src="src/images/frameassembly-1.jpg" width="30%">
     <img src="src/images/frameassembly-2.jpg" width="30%">
     <img src="src/images/frameassembly-3.jpg" width="30%">
