@@ -58,6 +58,24 @@ All the frame parts have been designed for making the drone scalable and modular
 The frame could be entirely 3D printed. For better frame assembling its highly recommended to use the PLA flexible material to print the parts. 
 STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a> (coming soon)
 
+## Remote (working progress)
+
+<div class="logo">   
+    <img src="src/images/remote1.jpg" width=50% /> 
+</div>
+<br>
+
+* **Microcontroller**: ATmega32u4
+* **Screen**: Oled 128x64
+* **Potentiometer**: 3 axis
+* **Port**: Micro USB port
+* **Module transceiver**: Mini NRFL4L01 
+
+<div align="center">
+    <img src="src/images/pcbremote.jpg" width="30%">
+    <img src="src/images/remoteshape.jpg" width="30%">
+    <img src="src/images/remote2.jpg" width="30%">
+</div>
 
 ## Contributing
 
