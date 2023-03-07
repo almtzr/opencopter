@@ -72,7 +72,7 @@ STL files are available here: <a href="https://github.com/saandial/Open-Copter/t
 * **Module transceiver**: Mini NRFL4L01 
 
 <div align="center">
-    <img src="src/images/pcbremote.jpg" width="30%">
+    <img src="src/images/remotepcb.jpg" width="30%">
     <img src="src/images/remoteshape.jpg" width="30%">
     <img src="src/images/remote2.jpg" width="30%">
 </div>
