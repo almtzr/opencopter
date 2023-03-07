@@ -23,14 +23,13 @@ My next prototype was better designed (good size of wires), no smoke came out of
 After several failed tests by improving the frame design, checking some parameters and motors stabilisation, I had enough experience to build one better. 
 <br>
 
-[https://github.com/saandial/Open-Copter/blob/main/src/videos/demopark.mp4
-](https://raw.githubusercontent.com/saandial/Open-Copter/main/src/videos/demopark.mp4)
 
-<video src="src/videos/demopark.mp4" controls="controls"></video>
+![00:02-00:04](https://user-images.githubusercontent.com/17693496/223375571-a9ea00ec-2a6b-46e8-bc15-97c7067e0542.mp4)
+
 
 <div>
    <video style="display:block; width:100%; height:auto;" autoplay="true" controls="" loop="loop">
-       <source src="src/videos/demopark.mp4" type="video/mp4" />
+       <source src="[src/videos/demopark.mp4](https://raw.githubusercontent.com/saandial/Open-Copter/main/src/videos/demopark.mp4)" type="video/mp4" />
    </video>
 </div>
 <br>             
