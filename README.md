@@ -17,7 +17,7 @@ Open Copter is a modular and scalable drone. It's designed for building quickly 
     <img src="src/images/stop_fire.gif" class="leftAlign">
     <p>Gif source: <a href="https://giphy.com/gifs/fire-seinfeld-15a78dCc2ESIw" target="_blank">Giphy</a>
 </div>
-When I started to build the first open copter prototype, my first steps as drone maker was a little bit rocky. Many of unexpected things happened. First of all my first prototype just caught on fire when I powered on by connecting the battery. I saw a black smoke to come out of the frame, so after this first wrong experience, I understood what I shouldn’t do. Don't use wires with the wrong size. The thickness of my wires was too tiny for the load. Be careful by using the appropriate size of wires for the current of the battery.
+When I started to build my first open copter prototype it was a little bit rocky. Many of unexpected things happened. First of all my first prototype just caught on fire when I powered on by connecting the battery. I saw a black smoke to come out of the frame, so after this first wrong experience, I understood what I shouldn’t do. Don't use wires with the wrong size. The thickness of my wires was too tiny for the load. Be careful by using the appropriate size of wires for the current of the battery.
 
 ### (And crashes)
 
