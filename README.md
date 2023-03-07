@@ -36,7 +36,7 @@ After several failed tests by improving the frame design, updating some paramete
 </div>
 <div align="center">
     <p>Very easy assembling no tools are needed</p>
-    <img src="src/images/iconnotools.jpg" width="8%">
+    <img src="src/images/iconnotools.jpg" width="10%">
 </div>
 <br>
 <div align="center">
@@ -54,6 +54,8 @@ After several failed tests by improving the frame design, updating some paramete
 * **Number of parts**: 47
 * **Material**: PLA flexible 
 
+All the frame parts have been designed for making the drone scalable and modular. Each of them could be replaced to customize the drone as it needs. 
+The frame could be entirely 3D printed. For better frame assembling its highly recommended to use the PLA flexible material to print the parts. 
 STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a> (coming soon)
 
 
