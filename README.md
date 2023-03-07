@@ -1,7 +1,14 @@
+https://user-images.githubusercontent.com/17693496/223375571-a9ea00ec-2a6b-46e8-bc15-97c7067e0542.mp4
 
 # Open Copter: modular and scalable drone (Work in Progress...)<br>
 
 Open Copter is a modular and scalable drone. It's designed for building quickly and easily, no tools are needed.
+
+<div align="center">
+    <img src="src/images/frameassembly-1.jpg" alt="Logo" width="30%">
+    <img src="src/images/opencopter.png" alt="Logo" width="30%">
+    <img src="src/images/remote.png" alt="Logo" width="30%">
+</div>
 
 ## How it started?
 ### (By fires)
@@ -23,38 +30,23 @@ My next prototype was better designed (good size of wires), no smoke came out of
 After several failed tests by improving the frame design, checking some parameters and motors stabilisation, I had enough experience to build one better. 
 <br>
 
+## Frame assembling (working progress)
 
-![00:02-00:04](https://user-images.githubusercontent.com/17693496/223375571-a9ea00ec-2a6b-46e8-bc15-97c7067e0542.mp4)
 
-
-<div>
-   <video style="display:block; width:100%; height:auto;" autoplay="true" controls="" loop="loop">
-       <source src="[src/videos/demopark.mp4](https://raw.githubusercontent.com/saandial/Open-Copter/main/src/videos/demopark.mp4)" type="video/mp4" />
-   </video>
+<div align="center">
+    <p>Very simple no tools are needed</p>
+    <img src="src/images/frameassembly-1.jpg" alt="Logo" width="30%">
+    <img src="src/images/frameassembly-2.jpg" alt="Logo" width="30%">
+    <img src="src/images/frameassembly-3.jpg" alt="Logo" width="30%">
+    <img src="src/images/frameassembly-4.jpg" alt="Logo" width="30%">
+    <img src="src/images/frameassembly-5.jpg" alt="Logo" width="30%">
+    <img src="src/images/frameassembly-6.jpg" alt="Logo" width="30%">
 </div>
-<br>             
-<div>
-   <video style="display:block; width:100%; height:auto;" autoplay="" controls="" loop="loop">
-       <source src="./images/demobeach.mp4" type="video/mp4" />
-   </video>
-</div>  
+<br>
 
-<div align="left">
-    <img src="src/images/opencopter.png" alt="Logo" width="30%">
-    <img src="src/images/remote.png" alt="Logo" width="30%">
-</div>
-
-## Electronics
-
-- [opencopter-electronics](https://github.com/saandial/Open-Copter/tree/main/electronics): Electronics for Open Cotper. Include schematics and other diagrams.
-
-## Software
+<p>STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a>
 
 - [opencopter-software](https://github.com/saandial/Open-Copter/tree/main/software): Source code files for transmitter and receiver.
-
-## Hardware
-
-- [opencopter-hardware](https://github.com/saandial/Open-Copter/tree/main/hardware): Hardware for Open Copter. Include STL file parts and other diagrams.
 
 ## Contributing
 
@@ -75,11 +67,6 @@ git commit -m 'Add some AmazingFeature'
 git push origin feature/AmazingFeature`
 ```
 5. Open a Pull Request
-
-## How to build
-
-If you want to know more about how to assembly the Open Copter, please checkout the github page: <br>
-<a href="https://saandial.github.io/opencopter/index.html" target="_blank">https://saandial.github.io/opencopter/index.html</a>
 
 ## License
 
