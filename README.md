@@ -32,10 +32,10 @@ After several failed tests by improving the frame design, updating some paramete
 
 ## Frame assembling (working progress)
 <div align="center">
-    <img src="src/images/frameshape.jpg" width="30%">
+    <img src="src/images/frameshape.jpg">
 </div>
 <div align="center">
-    <p>Very simple no tools are needed</p>
+    <p>Very easy assembling no tools are needed</p>
     <img src="src/images/frameassembly-1.jpg" width="30%">
     <img src="src/images/frameassembly-2.jpg" width="30%">
     <img src="src/images/frameassembly-3.jpg" width="30%">
