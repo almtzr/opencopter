@@ -48,7 +48,7 @@ After several failed tests by improving the frame design, checking some paramete
 * **Number of parts**: 47
 * **Material**: PLA flexible 
 
-<p>STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a>
+STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a> (coming soon)
 
 
 ## Contributing
