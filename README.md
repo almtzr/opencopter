@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/17693496/223375571-a9ea00ec-2a6b-46e8-bc15-97c7067e0542.mp4
+https://user-images.githubusercontent.com/17693496/223571099-8ab36836-5051-4212-8d18-066a596307e5.mp4
 
 # Open Copter: modular and scalable drone (Work in Progress...)<br>
 
