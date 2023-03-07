@@ -60,7 +60,7 @@ STL files are available here: <a href="https://github.com/saandial/Open-Copter/t
 
 ## Remote (working progress)
 
-<div class="logo">   
+<div class="center">   
     <img src="src/images/remote1.jpg" width=50% /> 
 </div>
 <br>
@@ -76,6 +76,12 @@ STL files are available here: <a href="https://github.com/saandial/Open-Copter/t
     <img src="src/images/remoteshape.jpg" width="30%">
     <img src="src/images/remote2.jpg" width="30%">
 </div>
+
+### Electonics remote
+<div class="center">   
+    <img src="src/images/Schematic_remote.jpg" /> 
+</div>
+
 
 ## Contributing
 
