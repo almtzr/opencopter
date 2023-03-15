@@ -24,11 +24,15 @@ When I started to build my first open copter prototype it was a little bit rocky
 My next prototype was better designed (good size of wires), no smoke came out of the frame this time. After checking out of the ESC calibration, propellers orientation and some parameters. I decided to test the prototype outside to see if it could fly. Unfortunately, the reality was not that I expected, again. Just after armed the drone, it started to fly, I was so happy to see my first flight. But after a few seconds one of the brushless motors came off of the frame and the drone just crashed on the floor.
 <br/>
 <div align="left">
-    <img src="src/images/crash.gif">
+    <img src="src/images/opencoptercrash.gif">
 </div>
-<br>
+<br/>
 After several failed tests by improving the frame design, updating some parameters and working on motors stabilisation, I did enough of mistakes to hope building a better one. 
 <br>
+<div align="left">
+    <img src="src/images/opencoptertest.gif">
+</div>
+<br/>
 
 ## Frame assembling (working progress)
 <div align="center">
