@@ -33,6 +33,7 @@ After several failed tests by improving the frame design, updating some paramete
     <img src="src/images/opencoptertest.gif">
 </div>
 <br/>
+<br/>
 
 ## Frame assembling (working progress)
 <div align="center">
