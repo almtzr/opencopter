@@ -29,10 +29,10 @@ My next prototype was better designed (good size of wires), no smoke came out of
 <br/>
 After several failed tests by improving the frame design, updating some parameters and working on motors stabilisation, I did enough of mistakes to hope building a better one. 
 <br/>
+<br/>
 <div align="left">
     <img src="src/images/opencoptertest.gif">
 </div>
-<br/>
 <br/>
 
 ## Frame assembling (working progress)
