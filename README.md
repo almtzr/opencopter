@@ -2,9 +2,8 @@ https://user-images.githubusercontent.com/17693496/223571099-8ab36836-5051-4212-
 
 # Open Copter: modular and scalable drone (Work in Progress...)<br>
 
-Open Copter is a modular and scalable drone. It's designed for building quickly and easily, no tools are needed.
-
 <div align="center">
+    <p>Open Copter is a modular and scalable drone. It's designed for building quickly and easily, no tools are needed.</p>
     <img src="src/images/frameassembly-1.jpg" width="45%">
     <img src="src/images/frameassembly-6.jpg" width="45%">
 </div>
