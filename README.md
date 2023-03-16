@@ -35,6 +35,11 @@ After several failed tests by improving the frame design, updating some paramete
 </div>
 
 ## Frame assembling (working progress)
+
+All the frame parts have been designed for making the drone scalable and modular. Each of them could be replaced to customize the drone as it needs. 
+The frame could be entirely 3D printed. For better frame assembling its highly recommended to use the PLA flexible material to print the parts. 
+STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a> (coming soon)
+
 <div align="center">
     <img src="src/images/frameshape.jpg">
 </div>
@@ -60,10 +65,6 @@ After several failed tests by improving the frame design, updating some paramete
 <div align="left">
     <img src="src/images/opencopterpark.gif">
 </div>
-<br/>
-All the frame parts have been designed for making the drone scalable and modular. Each of them could be replaced to customize the drone as it needs. 
-The frame could be entirely 3D printed. For better frame assembling its highly recommended to use the PLA flexible material to print the parts. 
-STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a> (coming soon)
 
 ## Transmitter (working progress)
 
