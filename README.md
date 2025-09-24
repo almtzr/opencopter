@@ -1,12 +1,12 @@
 # Open Copter: modular and scalable drone (Work in Progress...)<br>
 
-<div align="center">
+<div align="left">
     <p>Open Copter is a modular and scalable drone. It's designed for building quickly and easily, no tools are needed.</p>
     <img src="src/images/frameassembly-1.jpg" width="45%">
     <img src="src/images/frameassembly-6.jpg" width="45%">
 </div>
 <br/>
-<div align="center">
+<div align="left">
     <img src="src/images/opencopterbeach.gif">
 </div>
 
@@ -40,7 +40,7 @@ All the frame parts have been designed for making the drone scalable and modular
 The frame could be entirely 3D printed. For better frame assembling its highly recommended to use the PLA flexible material to print the parts. 
 STL files are available here: <a href="https://github.com/saandial/Open-Copter/tree/main/frame_design" target="_blank">frame design</a> (coming soon)
 
-<div align="center">
+<div align="left">
     <img src="src/images/frameshape.jpg">
 </div>
 <div align="center">
@@ -61,14 +61,15 @@ STL files are available here: <a href="https://github.com/saandial/Open-Copter/t
 * **Weight (empty)**: 300g
 * **Diagonal (motor-to-motor)**: 460mm
 * **Number of parts**: 47
-* **Material**: PLA flexible 
+* **Material**: PLA flexible
+
 <div align="left">
     <img src="src/images/opencopterpark.gif">
 </div>
 
 ## Transmitter (working progress)
 
-<div align="center">   
+<div align="left">   
     <img src="src/images/remote1.jpg" width=60% /> 
 </div>
 <br>
@@ -79,14 +80,14 @@ STL files are available here: <a href="https://github.com/saandial/Open-Copter/t
 * **Port**: Micro USB port
 * **Module transceiver**: Mini NRFL4L01 
 
-<div align="center">
+<div align="left">
     <img src="src/images/remotepcb.jpg" width="30%">
     <img src="src/images/remoteshape.jpg" width="30%">
     <img src="src/images/remote2.jpg" width="30%">
 </div>
 
 ### Electonics:
-<div class="center">   
+<div class="left">   
     <img src="src/images/Schematic_remote.jpg" /> 
 </div>
 
